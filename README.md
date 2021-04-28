@@ -1,6 +1,6 @@
 # Hi there, my name is **Vadim Polkh** 
 ## Back-end developer in Webink. studio, PM TL in RUE Beltamozhservice  
-**Find a job**
+**Find a job [LinkedIn](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%B4%D0%B8%D0%BC-%D0%BF%D0%BE%D0%BB%D1%85-50bb64183/) [ХабрКарьера](https://career.habr.com/vadimpolh)**
 
 ### Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
